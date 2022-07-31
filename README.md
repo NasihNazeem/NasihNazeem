@@ -24,7 +24,82 @@
     </a> 
     <a > 
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a>
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+    </a>    
 </p>
 
 
