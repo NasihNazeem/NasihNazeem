@@ -20,7 +20,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
     </a>
     <a>
-        <img height="40" width="40" alt="CSS" width="26px" src="icons/css3.svg">
+        <img height="40" width="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     </a>     
     <a > 
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
