@@ -8,6 +8,9 @@
 - 🎯 2022 Goal: Contribute to more open sourced projects
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
+
+
 ### Connect with me:
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
 
