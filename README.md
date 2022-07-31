@@ -14,6 +14,18 @@
 ### Connect with me:
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
 
+### Favourite Languages and Tools:
+<p align="left">
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/> 
+    </a> 
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+    </a> 
+    <a > 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+</p>
 
 
 <br />
