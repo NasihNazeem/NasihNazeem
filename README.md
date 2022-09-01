@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Nasih Nazeem </h1>
 
-<h3 align="center">An Electrical Engineering student from Calgary, AB learning to become a developer! </h3>
+<h3 align="center">An Electrical Engineering student from Calgary, AB who has learned to become a developer! </h3>
 
 - 🧑‍💼 Software Engineering Intern at Publicis Sapient
 - 🌱 I am currently learning proficiencies in frontend development
