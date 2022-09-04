@@ -8,7 +8,7 @@
 - 🎯 2022 Goal: Contribute to more open sourced projects
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
-🖥️ <b>Technical Skills outside of Software Development:</b>
+🖥️ <b>Additional Technical Skills:</b>
 - PCB Development using Altium Designer
 - Mechanical Design Development using SOLIDWORKS
 - Embedded System Interfacing using MIPS Architecture Microcontrollers
