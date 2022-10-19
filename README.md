@@ -4,7 +4,7 @@
 
 - 🧑‍💼 Software Engineering Intern at Publicis Sapient
 - 🌱 I am currently learning proficiencies in frontend development
-- 🎥 Mainly interested in Web3 Development, mainly within the Solana blockchain
+- 🎥 Mainly interested in Web3 Development, within the Solana blockchain
 - 🎯 2022 Goal: Contribute to more open sourced projects
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
