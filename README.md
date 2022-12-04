@@ -12,8 +12,6 @@
 - PCB Development using Altium Designer
 - Mechanical Design Development using SOLIDWORKS
 - Embedded System Interfacing using MIPS Architecture Microcontrollers
-- Power Flow Analysis using PowerWorld
-- Steady-State Model Design using Simulink
 - HDL and FPGA Developement using Intel Quartus Pro 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
