@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Nasih Nazeem </h1>
 
-<h3 align="center">An Electrical Engineering student from Calgary, AB </h3>
+<h3 align="center">A recent gradaute looking for Developer opportunities</h3>
 
-- 🧑‍💼 Software Engineering Intern at Publicis Sapient
-- 🌱 I am currently learning proficiencies in frontend development
-- 🎯 2022 Goal: Contribute to more open sourced projects
+- 🧑‍💼 Previously a Software Engineer Intern at Publicis Sapient
+- 🌱 I am currently building a social media application similar to Twitter (X)
+- 🎯 2024 Goal: Write articles about my readings to share with my community
+- 📖 Currently Studying: Rust
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
 🖥️ <b>Additional Technical Skills:</b>
@@ -100,9 +101,6 @@
     </a>
     <a > 
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
-    </a>
-    <a > 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
     </a>
     <a > 
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
