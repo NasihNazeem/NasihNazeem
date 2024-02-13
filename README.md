@@ -3,7 +3,7 @@
 <h3 align="center">A recent gradaute looking for Developer opportunities</h3>
 
 - 🧑‍💼 Previously a Software Engineer Intern at Publicis Sapient
-- 🌱 I am currently building a social media application similar to Twitter (X)
+- 🌱 I am currently building a mobile application competing with Uber Eats
 - 🎯 2024 Goal: Write articles about my readings to share with my community
 - 📖 Currently Studying: Rust
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
