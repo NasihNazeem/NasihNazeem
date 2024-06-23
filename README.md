@@ -2,10 +2,10 @@
 
 <h3 align="center">A recent gradaute looking for Developer opportunities</h3>
 
-- 🧑‍💼 Previously a Software Engineer Intern at Publicis Sapient
-- 🌱 I am currently building a mobile application competing with Uber Eats
+- 🧑‍💼 Graduate with a major in Electrical Engineering and minor in Computer Engineering in 2023
+- 🌱 I am currently building a full-stack application that aims to compete with X (formerly Twitter)
 - 🎯 2024 Goal: Write articles about my readings to share with my community
-- 📖 Currently Studying: Rust
+- 📖 Currently Studying: Rust, Web3 (Solana)
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
 🖥️ <b>Additional Technical Skills:</b>
