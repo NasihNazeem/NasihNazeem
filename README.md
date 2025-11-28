@@ -1,11 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Nasih Nazeem </h1>
+<h1 align="center">Hi, I'm Nasih Nazeem </h1>
 
 <h3 align="center">A recent gradaute looking for Developer opportunities</h3>
 
 - 🧑‍💼 Graduate with a major in Electrical Engineering and minor in Computer Engineering in 2023
-- 🌱 I am currently building a full-stack application that aims to compete with X (formerly Twitter)
-- 🎯 2024 Goal: Write articles about my readings to share with my community
-- 📖 Currently Studying: Rust, Web3 (Solana)
+- 🌱 I am currently helping build [Rookies](https://rookiesfantasy.com/)
+- 🎯 2025 Goal: More open-source contributions!
 - 🎉 Fun Fact: I am a big Manchester United fan ⚽
 
 🖥️ <b>Additional Technical Skills:</b>
